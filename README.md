@@ -23,14 +23,13 @@
 
 1、查看原始数据前4条数据情况
 
-
+ ![1559191855770](C:\Users\zero\AppData\Roaming\Typora\typora-user-images\1559191855770.png)
 
 2、查看数据集记录数、维度、数据类型情况
 
 数据集大小21*3637，时间字段为数值型需转化为日期型
 
 ![1559191875351](C:\Users\zero\AppData\Roaming\Typora\typora-user-images\1559191875351.png)
-
 
 
 3、文本评分分布情况
