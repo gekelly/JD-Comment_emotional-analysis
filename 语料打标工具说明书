@@ -1,0 +1,8 @@
+导入需要打标的数据及评论
+```
+stopwords = stopwordslist(r'D:\分析实战\京东评论文本挖掘\data\哈工大停用词表.txt')
+comment = getcomment(r"D:\分析实战\京东评论文本挖掘\data\京东评论数据.csv")
+
+print('停用词点',stopwords[:3])
+print('语料信息：',comment[:3])
+```
